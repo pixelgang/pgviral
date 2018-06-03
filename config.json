@@ -22,10 +22,10 @@
 	}],
 	"plugins": [
 		{ "id": "cordova-custom-config", "version": null },
-		{ "id": "cordova-plugin-ad-admob", "version": null },
 		{ "id": "cordova-plugin-inappbrowser", "version": null },
 		{ "id": "cordova-plugin-statusbar", "version": null },
-		{ "id": "cordova-plugin-whitelist", "version": null }
+		{ "id": "cordova-plugin-whitelist", "version": null },
+		{ "id": "https://github.com/cranberrygame/cordova-plugin-ad-admob", "version": null }
 	],
 	"android": {
 		"min": 21,

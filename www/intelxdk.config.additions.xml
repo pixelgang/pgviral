@@ -1,2 +1,2 @@
-<intelxdk:plugin intelxdk:name="cordova-plugin-ad-admob" intelxdk:value="cordova-plugin-ad-admob" />
 <intelxdk:plugin intelxdk:name="cordova-plugin-inappbrowser" intelxdk:value="cordova-plugin-inappbrowser" />
+<intelxdk:plugin intelxdk:name="https://github.com/cranberrygame/cordova-plugin-ad-admob" intelxdk:value="https://github.com/cranberrygame/cordova-plugin-ad-admob" />

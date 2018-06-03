@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<widget id="com.pg.viralmarket" version="1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:android = "http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.pg.viralmarket" version="1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 	<name>PG Viral Marketer</name>
 	<description>Viral Marketer App</description>
 	<author></author>
@@ -23,10 +23,10 @@
 	<access origin="*" />
 
 	<plugin name="cordova-custom-config" />
-	<plugin name="cordova-plugin-ad-admob" />
 	<plugin name="cordova-plugin-inappbrowser" />
 	<plugin name="cordova-plugin-statusbar" />
 	<plugin name="cordova-plugin-whitelist" />
+	<plugin name="https://github.com/cranberrygame/cordova-plugin-ad-admob" />
 
 
 	<engine name="ios" />
